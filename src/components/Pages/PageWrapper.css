@@ -1,0 +1,12 @@
+.page-wrapper {
+    text-transform: uppercase;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+}
